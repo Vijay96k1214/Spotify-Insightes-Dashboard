@@ -37,3 +37,5 @@ The project files inside the Power BI source structure include:
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/Vijay96k1214/Spotify-Insightes-Dashboard.git](https://github.com/Vijay96k1214/Spotify-Insightes-Dashboard.git)
+2. Dashboard Image :
+<img width="1167" height="656" alt="Screenshot 2026-08-06 111751" src="https://github.com/user-attachments/assets/ea235b7a-f33b-4b39-a491-026c932bc710" />

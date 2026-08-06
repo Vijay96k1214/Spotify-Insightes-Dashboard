@@ -61,3 +61,5 @@ The project files inside the Power BI source structure include:
 <img width="1167" height="656" alt="Screenshot 2026-08-06 111751" src="https://github.com/user-attachments/assets/ea235b7a-f33b-4b39-a491-026c932bc710" />
 3. Raw Dataset :
    [Download Raw Dataset] - (https://github.com/Vijay96k1214/Spotify-Insightes-Dashboard/raw/refs/heads/main/dataset.csv)
+4. Dashboard :
+[Download Dashbaord] - (https://github.com/Vijay96k1214/Spotify-Insightes-Dashboard/raw/refs/heads/main/SPOTIFY%20DASHBOARD.pbix)
